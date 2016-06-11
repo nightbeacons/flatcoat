@@ -1,0 +1,62 @@
+/**
+ * Place your custom styles here.
+ */
+
+#navbar {
+  background-color: #ffffff;
+  border: none;
+}
+
+.region-sidebar-first  {
+  background-color: #ffffff;
+  padding:0;
+}
+
+a.dropdown-toggle {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 0.90em;
+  color: black;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  padding: 4px 0 4px 10px;
+}
+
+li.leaf {
+  font-size: 90%;
+  color: #37413c;
+  font-weight: bold;
+  border-bottom: 1px solid #949292;
+  text-decoration: none;
+}
+
+h1.page-header {
+  font-size:.90em;
+  font-weight: bold;
+  font-style:italic;
+  color:#333;
+  position:relative;
+  left:10px;
+  border:1px solid #b75a17;
+  width: auto;
+  padding:3px;
+}
+
+div.field-name-field-section {
+  font-size:0.90em;
+  font-weight:bold;
+  text-transform:uppercase;
+  border:1px solid #b75a17;
+  padding:5px;
+}
+
+p.footerline {
+  color: #333;
+  width: 550px;
+  height: 15px;
+  margin: 10px 0px;
+  padding: 3px;
+  border-top:1px solid #b0000a;
+  font-size: 70%;
+  text-align: center;
+}
